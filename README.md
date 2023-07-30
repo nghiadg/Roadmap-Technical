@@ -1,4 +1,4 @@
-# Roadmap-Technical - Target: Work at NAB Company in 12/2024 in the role middle software developer.
+# Roadmap-Technical - Target: Work at NAB Company/Possitive Thinking in 12/2024 in the role middle software developer.
 
 The collection of resources, such as courses, books, podcasts, etc., helps in improving technical skills and enables a deep dive into various aspects of basic software development.
 
